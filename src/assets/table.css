@@ -1,0 +1,9 @@
+.row-odd {
+    background-color: #d1cdcd;
+    color: black;
+}
+
+.row-even {
+    background-color: gainsboro;
+    color: black;
+}
